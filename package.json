@@ -1,0 +1,24 @@
+{
+  "name": "wow-raid-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrisone/wow-raid-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afrisone/wow-raid-data/issues"
+  },
+  "homepage": "https://github.com/afrisone/wow-raid-data#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
