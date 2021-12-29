@@ -20,5 +20,8 @@
   "homepage": "https://github.com/afrisone/wow-raid-data#readme",
   "dependencies": {
     "express": "^4.17.2"
+  },
+  "engines": {
+    "node": "17.x"
   }
 }
